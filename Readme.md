@@ -19,8 +19,9 @@ Below I will describe what commands are available in the bot, and also attach ev
 7)   /searchpilots : To search for information about a Pilots member by moniker or address.  
     ![searchpilot](https://github.com/fsokras/systemus-namada-bot/assets/102593471/909b1930-5894-4df3-b67f-3035390ab884)
 
-8)   /help : show this help text;
+8)   /help : show this help text;  
 9)   /cancel : end the current process.
 
+Upd: Working condition at the time before the fork. After the fork, I will update my node and there may be some downtime.
 
 
